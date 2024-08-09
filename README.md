@@ -6,10 +6,6 @@ A to-do list application built using Redux for state management. This project de
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌟 Features
 
